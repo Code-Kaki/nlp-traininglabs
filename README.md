@@ -70,7 +70,7 @@ There are few important steps in setting up your environment:
 
 1. Open Anaconda Prompt and activate nlp-labs environment.
 
-2. Navigate to NLP-Labs root folder:
+2. Navigate to NLP-Labs root folder.
 
 3. Run the following command to install required modules for this training lab:
 ![Install requirement.txt](images/activate_env_2.png)

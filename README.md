@@ -18,7 +18,32 @@ There are few important steps in setting up your environment:
 
 <br>
 
-## Step 2: Install NLP-Labs Dependencies
+## Step 2: Clone nlp-traininglabs Repository
+
+- **If you have git installed**:
+1. Navigate to the folder where you want to keep the `traininglabs`.
+
+2. Press `shift` + `right click` and select `Git Bash here`.
+![Git Bash](images/gitBash.png)
+
+3. Enter the following command to clone `nlp-traininglabs` to your local drive.
+
+    > git clone https://github.com/skymind-talent/nlp-traininglabs.git
+
+<br>
+
+- **If you do not have git installed**
+1. Go the [nlp-traininglabs](https://github.com/skymind-talent/nlp-traininglabs) github repository.
+![Github Repository](images/githubRepo.png)
+
+2. Download the repository as zip file.
+![Download Repository](images/download_repo.png)
+
+3. Unzip the file to the folder where you want to keep the `traininglabs`.
+
+<br>
+
+## Step 3: Install NLP-Labs Dependencies
 
 1. Open Anaconda Prompt.
 ![Anaconda Prompt](images/anaconda_prompt.png)
@@ -41,7 +66,7 @@ There are few important steps in setting up your environment:
 
 <br>
 
-## Step 3: Install Python Packages
+## Step 4: Install Python Packages
 
 1. Open Anaconda Prompt and activate nlp-labs environment.
 
@@ -56,7 +81,7 @@ There are few important steps in setting up your environment:
 
 <br>
 
-## Step 4: Install Spacy Language Models
+## Step 5: Install Spacy Language Models
 
 ![Spacy Model Install](images/spacy_install.png)
 
@@ -85,7 +110,7 @@ For more SpaCy language models installation guidelines, please refer to [SpaCy M
 
 <br>
 
-## Step 5: Download NLP-training Labs Resources
+## Step 6: Download NLP-training Labs Resources
 
 1. Go to the [resources folder](https://drive.google.com/drive/folders/1_JV6NpYNvKjvfD4yHqO2mKvsrRYUCj3I?usp=sharing) located at Google Drive.
 ![Google Drive Resources Folder](images/resources.png)

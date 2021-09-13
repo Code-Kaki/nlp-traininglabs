@@ -28,7 +28,7 @@ There are few important steps in setting up your environment:
 
 3. Enter the following command to clone `nlp-traininglabs` to your local drive.
 
-    > git clone https://github.com/skymind-talent/nlp-traininglabs.git
+    > `git clone https://github.com/skymind-talent/nlp-traininglabs.git`
 
 <br>
 
